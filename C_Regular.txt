@@ -1,4 +1,0 @@
-1 Pablo 65 20
-2 Carlos 30 120
-3 Vanessa 36 21
-4 Edwin 70 30

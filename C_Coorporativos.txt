@@ -1,4 +1,0 @@
-1 Edwin 25 Ficohsa 100
-2 Carlos 25 Bac 1375
-3 Pablo 70 Atlantida 0
-4 Vanessa 66 Cuscatlan 0
