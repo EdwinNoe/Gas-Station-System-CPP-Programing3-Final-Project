@@ -1,0 +1,12 @@
+===============================
+         FACTURA DE COMPRA       
+===============================
+Nombre del Cliente: Edwin
+Tipo de Cliente: REGULAR
+Nombre de Combustible: Super
+Litros Comprados: 3 litros
+Precio por Litro: $100
+Descuento Aplicado: $195
+Total a Pagar sin Descuento: $300
+Total a Pagar con Descuento: $105
+===============================

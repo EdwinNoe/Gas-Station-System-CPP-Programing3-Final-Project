@@ -1,0 +1,3 @@
+Super 995 100
+Regular 1000 90
+Diesel 1000 80
